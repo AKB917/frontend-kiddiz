@@ -1,8 +1,8 @@
 # frontend-kiddiz
 
-# 🎠 Kiddiz - Application Mobile
+#  Kiddiz - Application Mobile
 
-## 📝 Description
+##  Description
 
 **Kiddiz** est une application mobile de **vente et d'achat de jouets d'occasion** entre particuliers.
 Elle permet aux utilisateurs de publier des annonces, d'acheter des articles, d'échanger des messages et de gérer leurs transactions en toute simplicité.
@@ -59,25 +59,25 @@ Développée avec **React Native** et **Expo**, l'application utilise **Redux** 
 
 ---
 
-## 🚀 Installation
+##  Installation
 
-### **1️⃣ Prérequis**
+### **1️ Prérequis**
 - **Node.js** (v16+ recommandé)
 - **Expo CLI** (`npm install -g expo-cli`)
 - **Un appareil ou un émulateur iOS/Android**
 
-### **2️⃣ Cloner le projet**
+### **2️ Cloner le projet**
 ```bash
 git clone https://github.com/votre-repo/kiddiz-app.git
 cd kiddiz-app
 ```
 
-### **3️⃣ Installer les dépendances**
+### **3️ Installer les dépendances**
 ```bash
 npm install
 ```
 
-### **4️⃣ Lancer l'application**
+### **4️ Lancer l'application**
 ```bash
 npm start
 ```
@@ -85,16 +85,16 @@ Puis, scannez le QR Code avec **Expo Go** sur votre téléphone ou exécutez sur
 
 ---
 
-## 🎨 **Fonctionnalités principales**
+##  **Fonctionnalités principales**
 
-✅ **Créer un compte et se connecter** (Signup / Signin)  
-✅ **Publier et modifier un article** (AddArticlesScreen, ModifyArticleScreen)  
-✅ **Acheter un article** (InvoiceScreen, TransactionsScreen)  
-✅ **Gérer ses annonces et favoris** (MyArticlesScreen, FavorisScreen)  
-✅ **Envoyer et recevoir des messages** (MessagerieScreen, ChatScreen)  
-✅ **Voir les vendeurs et leur profil** (SellerScreen, ProfilScreen)  
-✅ **Consulter une FAQ et de l'aide** (FAQScreen)  
-✅ **Barre de recherche et filtres avancés** (SearchBar)  
+ **Créer un compte et se connecter** (Signup / Signin)  
+ **Publier et modifier un article** (AddArticlesScreen, ModifyArticleScreen)  
+ **Acheter un article** (InvoiceScreen, TransactionsScreen)  
+ **Gérer ses annonces et favoris** (MyArticlesScreen, FavorisScreen)  
+ **Envoyer et recevoir des messages** (MessagerieScreen, ChatScreen)  
+ **Voir les vendeurs et leur profil** (SellerScreen, ProfilScreen)  
+ **Consulter une FAQ et de l'aide** (FAQScreen)  
+ **Barre de recherche et filtres avancés** (SearchBar)  
 
 ---
 
@@ -160,42 +160,6 @@ npx expo start --ios
 eas build --platform android
 eas build --platform ios
 ```
-
----
-
-## 🏗 **Développement & Contribution**
-
-Vous souhaitez contribuer ? Suivez ces étapes :
-
-1. **Forker** le repo
-2. **Créer une branche**
-   ```bash
-   git checkout -b feature/nom-de-la-fonctionnalité
-   ```
-3. **Coder 🚀**
-4. **Faire un commit**
-   ```bash
-   git commit -m "Ajout de la fonctionnalité X"
-   ```
-5. **Pousser les changements**
-   ```bash
-   git push origin feature/nom-de-la-fonctionnalité
-   ```
-6. **Ouvrir une pull request**
-
----
-
-## 📜 **Licence**
-Ce projet est sous **licence MIT**. Vous êtes libre de l'utiliser et de le modifier tant que vous mentionnez les auteurs originaux.
-
----
-
-## 💬 **Contact**
-📧 **Email** : contact@kiddiz.com  
-🌍 **Site Web** : [www.kiddiz.com](https://www.kiddiz.com)  
-🐙 **GitHub** : [@votre-github](https://github.com/votre-github)
-
----
 
 🔥 **Merci d'utiliser Kiddiz !** 🎠  
 Si vous aimez ce projet, ⭐ **étoilez-le** sur GitHub ! 
